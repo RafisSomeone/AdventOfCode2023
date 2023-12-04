@@ -1,0 +1,1 @@
+record Gear(int x, int y) {}
