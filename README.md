@@ -12,8 +12,6 @@ Advent of Code is an annual December event where programmers of all levels tackl
 - [Day 2 - Cube Conundrum](./Day02/README.md)
 - [Day 3 - Gear Ratios](./Day03/README.md)
 - [Day 4 - Scratchcards](./Day04/README.md)
-- Day 5 - [Coming Soon]
-- [More days will be added as the event progresses]
 
 ## 🛠️ Technologies Used
 
